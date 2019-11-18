@@ -1,0 +1,25 @@
+package subjects
+
+const (
+	PLATFORM_USER_CANCEL_SUBJECT  = "bpaas.platform_user.cancel"
+	PLATFORM_USER_CREATE_SUBJECT  = "bpaas.platform_user.create"
+	PLATFORMUSER_ACTIVATE_SUBJECT = "bpaas.platform_user.activate"
+	USER_ACTIVATE_SUBJECT         = "bpaas.user.activate"
+	USER_AUTH_SUBJECT             = "bpaas.user.auth"
+	USER_CONFIRM_RESET_PASSWORD   = "bpaas.user.confirm_reset_password"
+	USER_CREATE_SUBJECT           = "bpaas.user.create"
+	USER_IS_AUTHORIZED_SUBJECT    = "bpaas.user.is_authorized"
+	USER_LIST_ALL_SUBJECT         = "bpaas.user.list_all"
+	USER_LIST_COMPANY_SUBJECT     = "bpaas.user.list_company"
+	USER_LIST_PLATFORM_SUBJECT    = "bpaas.user.list_platform"
+	USER_LIST_SUBJECT             = "bpaas.user.list_company"
+	USER_RESET_PASSWORD           = "bpaas.user.reset_password"
+	USER_ROLE_UPDATE_SUBJECT      = "bpaas.user.update_role"
+	USER_SUSPEND_SUBJECT          = "bpaas.user.suspend"
+	USER_UPDATE_FAILED_SUBJECT    = "bpaas.user.update.failed"
+	USER_UPDATE_PASSWORD_SUBJECT  = "bpaas.user.update_password"
+	USER_UPDATE_PROFILE_SUBJECT   = "bpaas.user.update_profile"
+	USER_VERIFY_EMAIL_SUBJECT     = "bpaas.user.verify_email"
+	USER_VERIFY_SUBJECT           = "bpaas.user.verify"
+	USER_WHOAMI_SUBJECT           = "bpaas.user.whoami"
+)
