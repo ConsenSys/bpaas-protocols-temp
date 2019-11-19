@@ -2,16 +2,8 @@ package subjects
 
 const (
 	CHAINCODE_INSTALLED_EMAIL_LIST_FAILED         = "bpaas.notification.email_list_chaincode_instantiated.failed"
-	EMAIL_INVITE_COMPLETED_SUBJECT                = "bpaas.email.invite.completed"
-	EMAIL_INVITE_FAILED_SUBJECT                   = "bpaas.email.invite.failed"
 	LIST_COMPLETED_SUBJECT                        = "bpaas.user.list_company.completed"
 	LIST_FAILED_SUBJECT                           = "bpaas.user.list_company.failed"
-	NOTIFICATION_CHAINCODE_INSTALLED_COMPLETED    = "bpaas.notification.chaincode.instantiated"
-	NOTIFICATION_PASSWORD_RESET_SUBJECT           = "bpaas.notification.user.password_reset"
-	NOTIFICATION_PLATFORM_USER_CREATED_SUBJECT    = "bpaas.notification.user.platform.created"
-	NOTIFICATION_USER_ACTIVATED_SUBJECT           = "bpaas.notification.user.activated"
-	NOTIFICATION_USER_CREATED_SUBJECT             = "bpaas.notification.user.created"
-	NOTIFICATION_USER_SUSPENDED_SUBJECT           = "bpaas.notification.user.suspended"
 	PING_USER_COMPLETED_SUBJECT                   = "bpaas.ping.user.completed"
 	PING_USER_FAILED_SUBJECT                      = "bpaas.ping.user.failed"
 	PLATFORMUSER_ACTIVATE_COMPLETED_SUBJECT       = "bpaas.platform_user.activate.completed"
