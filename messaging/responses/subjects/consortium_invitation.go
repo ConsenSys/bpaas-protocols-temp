@@ -1,4 +1,4 @@
-package consortium_invitation
+package subjects
 
 const (
 	CONSORTIUM_INVITATIONS_CREATE_COMPLETED_SUBJECT         = "bpaas.consortium_invitations.create.completed"
@@ -19,6 +19,5 @@ const (
 	CONSORTIUM_APPROVALS_LIST_WAITING_COMPLETED_SUBJECT     = "bpaas.consortium_invitation_approval.list_waiting.completed"
 	CONSORTIUM_INVITATIONS_APPROVALS_LIST_COMPLETED_SUBJECT = "bpaas.consortium_invitation_approval.list.completed"
 	CONSORTIUM_INVITATIONS_APPROVALS_LIST_FAILED_SUBJECT    = "bpaas.consortium_invitation_approval.list.failed"
-	CONSORTIUM_NOTIFICATION_EMAIL_SUBJECT                   = "bpaas.notification.consortium_invitation"
 	JOIN_CONSORTIUM_EMAIL_PARAMETERS_FAILED_SUBJECT         = "bpaas.consortium_invitation_email_parameters.failed"
 )
