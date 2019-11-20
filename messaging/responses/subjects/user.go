@@ -1,7 +1,6 @@
 package subjects
 
 const (
-	CHAINCODE_INSTALLED_EMAIL_LIST_FAILED = "bpaas.notification.email_list_chaincode_instantiated.failed"
 	USER_LIST_COMPANY_COMPLETED           = "bpaas.user.list_company.completed"
 	USER_LIST_COMPANY_FAILED              = "bpaas.user.list_company.failed"
 	USER_ACTIVATE_COMPLETED               = "bpaas.user.activate.completed"
