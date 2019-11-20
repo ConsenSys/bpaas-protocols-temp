@@ -1,6 +1,6 @@
 package subjects
 
 const (
-	CHANNEL_CREATE_SUBJECT = "bpaas.channel.create"
-	CHANNEL_LIST_SUBJECT   = "bpaas.channel.list"
+	CHANNEL_CREATE = "bpaas.channel.create"
+	CHANNEL_LIST   = "bpaas.channel.list"
 )

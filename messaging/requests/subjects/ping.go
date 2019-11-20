@@ -1,5 +1,5 @@
 package subjects
 
 const (
-	PING_USER_SUBJECT = "bpaas.ping.user"
+	PING_USER = "bpaas.ping.user"
 )

@@ -1,5 +1,5 @@
 package subjects
 
 const (
-	PROFILE_GET_SUBJECT = "bpaas.profile.get"
+	PROFILE_GET = "bpaas.profile.get"
 )
