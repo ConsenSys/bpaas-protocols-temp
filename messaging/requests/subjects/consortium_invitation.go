@@ -6,7 +6,7 @@ const (
 	CONSORTIUM_INVITATION_ACCEPT          = "bpaas.consortium_invitation.accept"
 	CONSORTIUM_INVITATION_APPROVAL_LIST   = "bpaas.consortium_invitation.approval.list"
 	CONSORTIUM_INVITATION_CREATE          = "bpaas.consortium_invitation.create"
-	CONSORTIUM_INVITATIONS_GET            = "bpaas.consortium_invitation.get"
+	CONSORTIUM_INVITATION_GET             = "bpaas.consortium_invitation.get"
 	CONSORTIUM_INVITATION_OUTGOING_LIST   = "bpaas.consortium_invitation.outgoing.list"
-	CONSORTIUM_INVITATIONS_REJECT         = "bpaas.consortium_invitation.reject"
+	CONSORTIUM_INVITATION_REJECT          = "bpaas.consortium_invitation.reject"
 )
