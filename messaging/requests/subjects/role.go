@@ -1,9 +1,9 @@
 package subjects
 
 const (
-	LIST_ASSIGNABLE_COMPANY_ROLE  = "bpaas.roles.list_assignable_company_roles"
-	LIST_ASSIGNABLE_PLATFORM_ROLE = "bpaas.roles.list_assignable_platform_roles"
-	LIST_COMPANY_ROLE             = "bpaas.roles.list_company_roles"
-	LIST_PLATFORM_ROLE            = "bpaas.roles.list_platform_roles"
-	UPDATE_COMPANY_USER           = "bpaas.company.update_user_role"
+	ROLE_COMPANY_LIST_ASSIGNABLE  = "bpaas.role.company.list_assignable"
+	ROLE_PLATFORM_LIST_ASSIGNABLE = "bpaas.role.platform.list_assignable"
+	ROLE_COMPANY_LIST             = "bpaas.role.company.list"
+	ROLE_PLATFORM_LIST            = "bpaas.role.platform.list"
+	ROLE_COMPANY_UPDATE           = "bpaas.role.company.update"
 )
