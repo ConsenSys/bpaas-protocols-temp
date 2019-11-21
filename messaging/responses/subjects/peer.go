@@ -2,6 +2,7 @@ package subjects
 
 const (
 	PEER_CLUSTER_GET       = "bpaas.cluster.get.peer.delete"
+	PEER_CREATE_COMPLETED  = "bpaas.peer.create.completed"
 	PEER_CREATE_FAILED     = "bpaas.peer.create.failed"
 	PEER_CREATE_INPROGRESS = "bpaas.peer.create.inprogress"
 	PEER_DELETE_COMPLETED  = "bpaas.peer.delete.completed"
