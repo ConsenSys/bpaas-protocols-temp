@@ -7,4 +7,5 @@ const (
 	CONSORTIUM_LIST_BY_ORGANIZATION_COMPLETED = "bpaas.consortium.listbyorg.completed"
 	CONSORTIUM_LIST_BY_ORGANIZATION_FAILED    = "bpaas.consortium.listbyorg.failed"
 	CONSORTIUM_LIST_COMPLETED                 = "bpaas.consortium.list.completed"
+	CONSORTIUM_LIST_FAILED                    = "bpaas.consortium.list.failed"
 )
