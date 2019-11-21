@@ -9,6 +9,8 @@ const (
 	COMPANY_LIST_FAILED                     = "bpaas.company.list.failed"
 	COMPANY_REMOVE_USER_COMPLETED           = "bpaas.company.remove_user.completed"
 	COMPANY_REMOVE_USER_FAILED              = "bpaas.company.remove_user.failed"
+	COMPANY_USER_UPDATE_COMPLETED           = "bpaas.company.update.completed"
+	COMPANY_USER_UPDATE_FAILED              = "bpaas.company.update.failed"
 	COMPANY_USER_UPDATE_USER_ROLE_COMPLETED = "bpaas.company.update_user_role.completed"
 	COMPANY_USER_UPDATE_USER_ROLE_FAILED    = "bpaas.company.update_user_role.failed"
 	COMPANY_GET_USER_ACTIONS_COMPLETED      = "bpaas.company.get_user_actions.completed"
