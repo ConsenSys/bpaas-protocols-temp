@@ -3,8 +3,8 @@ package subjects
 const (
 	CONSORTIUM_INVITATION_CREATE_COMPLETED        = "bpaas.consortium_invitation.create.completed"
 	CONSORTIUM_INVITATION_CREATE_FAILED           = "bpaas.consortium_invitation.create.failed"
-	CONSORTIUM_INVITATION_LIST_COMPLETED          = "bpaas.consortium_invitation.list_outgoing.completed"
-	CONSORTIUM_INVITATION_LIST_FAILED             = "bpaas.consortium_invitation.list_outgoing.failed"
+	CONSORTIUM_INVITATION_OUTGOING_LIST_COMPLETED = "bpaas.consortium_invitation.outgoing.list.completed"
+	CONSORTIUM_INVITATION_OUTGOING_LIST_FAILED    = "bpaas.consortium_invitation.outgoing.list.failed"
 	CONSORTIUM_INVITATION_ACCEPT_COMPLETED        = "bpaas.consortium_invitation.accept.completed"
 	CONSORTIUM_INVITATION_ACCEPT_FAILED           = "bpaas.consortium_invitation.accept.failed"
 	CONSORTIUM_INVITATION_REJECT_COMPLETED        = "bpaas.consortium_invitation.reject.completed"
